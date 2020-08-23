@@ -12,5 +12,5 @@
 	<artifactId>decorator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>decorator</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Design Patterns Project</description>
 </project>
